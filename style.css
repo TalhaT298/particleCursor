@@ -19,9 +19,17 @@ canvas {
   pointer-events: none;
 }
 .ok {
-  color: azure;
+  color: white;
   position: fixed;
   bottom: 0;
   left: 50%;
   transform: translateX(-50%);
+}
+.fa-solid{
+  margin-left: 10px;
+  color: white;
+}
+.fas{
+  margin-left: 10px;
+  color: white;
 }
